@@ -1,0 +1,296 @@
+ID,Nombre,Tipo,Altura,Peso,Salud,Ataque,Ataque Especial,Defensa,Defensa Especial,Velocidad,Legendario,Ataques,Generacion
+152,Chikorita,planta,0.9,6.4,45,49,49,65,65,45,0,"['Crecimiento', 'Guardia Hoja']",2
+153,Bayleef,planta,1.2,15.8,60,62,63,80,80,60,0,"['Crecimiento', 'Guardia Hoja']",2
+154,Meganium,planta,1.8,100.5,80,82,83,100,100,80,0,"['Crecimiento', 'Guardia Hoja']",2
+155,Cyndaquil,fuego,0.5,7.9,39,52,60,43,50,65,0,"['Mar Llamas', 'Absorbe Fuego']",2
+156,Quilava,fuego,0.9,19,58,64,80,58,65,80,0,"['Mar Llamas', 'Absorbe Fuego']",2
+157,Typhlosion,fuego,1.7,79.5,78,84,109,78,85,100,0,"['Mar Llamas', 'Absorbe Fuego']",2
+158,Totodile,agua,0.6,9.5,50,65,44,64,48,43,0,"['Torrente', 'Pura Fuerza']",2
+159,Croconaw,agua,1.1,25,65,80,59,80,63,58,0,"['Torrente', 'Pura Fuerza']",2
+160,Feraligatr,agua,2.3,88.8,85,105,79,100,83,78,0,"['Torrente', 'Pura Fuerza']",2
+161,Sentret,normal,0.8,6,35,46,35,34,45,20,0,"['Huida', 'Ojo Compuesto', 'Cacheo']",2
+162,Furret,normal,1.8,32.5,85,76,45,64,55,90,0,"['Huida', 'Ojo Compuesto', 'Cacheo']",2
+163,Hoothoot,normal,0.7,21.2,60,30,36,30,56,50,0,"['Insomnio', 'Ojo Compuesto', 'Lente Tinta']",2
+164,Noctowl,normal,1.6,40.8,100,50,86,50,96,70,0,"['Insomnio', 'Ojo Compuesto', 'Lente Tinta']",2
+165,Ledyba,bicho,1,10.8,40,20,40,30,80,55,0,"['Enjambre', 'Madrugar', 'Sacudida']",2
+166,Ledian,bicho,1.4,35.6,55,35,55,50,110,85,0,"['Enjambre', 'Madrugar', 'Puño Férreo']",2
+167,Spinarak,bicho,0.5,8.5,40,60,40,40,40,30,0,"['Enjambre', 'Insomnio', 'Francotirador']",2
+168,Ariados,bicho,1.1,33.5,70,90,60,70,70,40,0,"['Enjambre', 'Insomnio', 'Francotirador']",2
+169,Crobat,veneno,1.8,75,85,90,70,80,80,130,0,"['Foco Interno', 'Allanamiento']",2
+170,Chinchou,agua,0.5,12,75,38,56,38,56,67,0,"['Absorbe Elec', 'Iluminación', 'Absorbe Agua']",2
+171,Lanturn,agua,1.2,22.5,125,58,76,58,76,67,0,"['Absorbe Elec', 'Iluminación', 'Absorbe Agua']",2
+172,Pichu,eléctrico,0.3,2,20,40,35,15,35,60,0,"['Estática', 'Pararrayos']",2
+173,Cleffa,hada,0.3,3,50,25,45,28,55,15,0,"['Encanto', 'Guardia Mágica', 'Amigo Guardia']",2
+174,Igglybuff,normal,0.3,1,90,30,40,15,20,15,0,"['Encanto', 'Competitivo', 'Amigo Guardia']",2
+175,Togepi,hada,0.3,1.5,35,20,40,65,65,20,0,"['Entusiasmo', 'Dicha Serena', 'Afortunado']",2
+176,Togetic,hada,0.6,3.2,55,40,80,85,105,40,0,"['Entusiasmo', 'Dicha Serena', 'Afortunado']",2
+177,Natu,psíquico,0.2,2,40,50,70,45,45,70,0,"['Sincronía', 'Madrugar', 'Espejomágico']",2
+178,Xatu,psíquico,1.5,15,65,75,95,70,70,95,0,"['Sincronía', 'Madrugar', 'Espejomágico']",2
+179,Mareep,eléctrico,0.6,7.8,55,40,65,40,45,35,0,"['Estática', 'Más']",2
+180,Flaaffy,eléctrico,0.8,13.3,70,55,80,55,60,45,0,"['Estática', 'Más']",2
+181,Ampharos,eléctrico,1.4,61.5,90,95,165,105,110,45,0,"['Estática', 'Más']",2
+182,Bellossom,planta,0.4,5.8,75,80,90,95,100,50,0,"['Clorofila', 'Curandero']",2
+183,Marill,agua,0.4,8.5,70,20,20,50,50,40,0,"['Sebo', 'Potencia', 'Herbívoro']",2
+184,Azumarill,agua,0.8,28.5,100,50,60,80,80,50,0,"['Sebo', 'Potencia', 'Herbívoro']",2
+185,Sudowoodo,roca,1.2,38,70,100,30,115,65,30,0,"['Robustez', 'Cabeza Roca', 'Sacudida']",2
+186,Politoed,agua,1.1,33.9,90,75,90,75,100,70,0,"['Absorbe Agua', 'Humedad', 'Llovizna']",2
+187,Hoppip,planta,0.4,0.5,35,35,35,40,55,50,0,"['Clorofila', 'Guardia Hoja', 'Allanamiento']",2
+188,Skiploom,planta,0.6,1,55,45,45,50,65,80,0,"['Clorofila', 'Guardia Hoja', 'Allanamiento']",2
+189,Jumpluff,planta,0.8,3,75,55,55,70,95,110,0,"['Clorofila', 'Guardia Hoja', 'Allanamiento']",2
+190,Aipom,normal,0.8,11.5,55,70,40,55,55,85,0,"['Huida', 'Recogida', 'Encadenado']",2
+191,Sunkern,planta,0.3,1.8,30,30,30,30,30,30,0,"['Clorofila', 'Poder Solar', 'Madrugar']",2
+192,Sunflora,planta,0.8,8.5,75,75,105,55,85,30,0,"['Clorofila', 'Poder Solar', 'Madrugar']",2
+193,Yanma,bicho,1.2,38,65,65,75,45,45,95,0,"['Impulso', 'Ojocompuesto', 'Cacheo']",2
+194,Wooper,agua,0.4,8.5,55,45,25,45,25,15,0,"['Humedad', 'Absorbe Agua', 'Ignorante']",2
+195,Quagsire,agua,1.4,75,95,85,65,85,65,35,0,"['Humedad', 'Absorbe Agua', 'Ignorante']",2
+196,Espeon,psíquico,0.9,26.5,65,65,130,60,95,110,0,"['Sincronía', 'Espejomágico']",2
+197,Umbreon,oscuro,1,27,95,65,60,110,130,65,0,"['Sincronía', 'Foco Interno']",2
+198,Murkrow,oscuro,0.5,2.1,60,85,85,42,42,91,0,"['Insomnio', 'Afortunado', 'Bromista']",2
+199,Slowking,agua,2,79.5,95,75,100,80,110,30,0,"['Despiste', 'Ritmo Propio', 'Regeneración']",2
+200,Misdreavus,fantasma,0.7,1,60,60,85,60,85,85,0,['Levitación'],2
+201,Unown,psíquico,0.5,5,48,72,72,48,48,48,0,['Levitación'],2
+202,Wobbuffet,psíquico,1.3,28.5,190,33,33,58,58,33,0,"['Sombra Trampa', 'Telepatía']",2
+203,Girafarig,normal,1.5,41.5,70,80,90,65,65,85,0,"['Foco Interno', 'Madrugar', 'Herbívoro']",2
+204,Pineco,bicho,0.6,7.2,50,65,35,90,35,15,0,"['Robustez', 'Capa Frágil']",2
+205,Forretress,bicho,1.2,125.8,75,90,60,140,60,40,0,"['Robustez', 'Capa Frágil']",2
+206,Dunsparce,normal,1.5,14,100,70,65,70,65,45,0,"['Dicha Serena', 'Huida', 'Sacudida']",2
+207,Gligar,tierra,1.1,64.8,65,75,35,105,65,85,0,"['Corte Fuerte', 'Velo Arena', 'Inmunidad']",2
+208,Steelix,acero,9.2,400,75,125,55,230,95,30,0,"['Cabeza Roca', 'Robustez', 'Pura Fuerza']",2
+209,Snubbull,hada,0.6,7.8,60,80,40,50,40,30,0,"['Intimidación', 'Huida', 'Sacudida']",2
+210,Granbull,hada,1.4,48.7,90,120,60,75,60,45,0,"['Intimidación', 'Pies Rápidos', 'Sacudida']",2
+211,Qwilfish,agua,0.5,3.9,65,95,55,85,55,85,0,"['Punto Tóxico', 'Nado Rápido', 'Intimidación']",2
+212,Scizor,bicho,1.8,118,70,150,65,140,100,75,0,"['Enjambre', 'Técnico', 'Metal Liviano']",2
+213,Shuckle,bicho,0.6,20.5,20,10,10,230,230,5,0,"['Robustez', 'Gula', 'Respondón']",2
+214,Heracross,bicho,1.5,54,80,185,40,115,105,75,0,"['Enjambre', 'Agallas', 'Autoestima']",2
+215,Sneasel,oscuro,0.9,28,55,95,35,55,75,115,0,"['Foco Interno', 'Ojo Compuesto', 'Hurto']",2
+216,Teddiursa,normal,0.6,8.8,60,80,50,50,50,40,0,"['Recogida', 'Pies Rápidos', 'Recogemiel']",2
+217,Ursaring,normal,1.8,125.8,90,130,75,75,75,55,0,"['Agallas', 'Pies Rápidos', 'Intimidar']",2
+218,Slugma,fuego,0.7,35,40,40,70,40,40,20,0,"['Magma Armor', 'Cuerpo Llama', 'Armadura Frágil']",2
+219,Magcargo,fuego,0.8,55,60,50,90,120,80,30,0,"['Magma Armor', 'Cuerpo Llama', 'Armadura Frágil']",2
+220,Swinub,hielo,0.4,6.5,50,50,30,40,30,50,0,"['Despiste', 'Manto Níveo', 'Sebo']",2
+221,Piloswine,hielo,1.1,55.8,100,100,60,80,60,50,0,"['Despiste', 'Manto Níveo', 'Sebo']",2
+222,Corsola,agua,0.6,5,65,55,65,95,95,35,0,"['Entusiasmo', 'Cura Natural', 'Regeneración']",2
+223,Remoraid,agua,0.6,12,35,65,65,35,35,65,0,"['Entusiasmo', 'Francotirador', 'Veleta']",2
+224,Octillery,agua,0.9,28.5,75,105,105,75,75,45,0,"['Ventosas', 'Francotirador', 'Veleta']",2
+225,Delibird,hielo,0.9,16,45,55,65,45,45,75,0,"['Espíritu Vital', 'Entusiasmo', 'Insomnio']",2
+226,Mantine,agua,2.1,220,85,40,80,70,140,70,0,"['Nado Rápido', 'Absorbe Agua', 'Velo Agua']",2
+227,Skarmory,acero,1.7,50.5,65,80,40,140,70,70,0,"['Vista Lince', 'Robustez', 'Armadura Frágil']",2
+228,Houndour,oscuro,0.6,10.8,45,60,80,30,50,65,0,"['Madrugar', 'Absorbe Fuego', 'Nerviosismo']",2
+229,Houndoom,oscuro,1.4,35,75,90,140,90,90,115,0,"['Madrugar', 'Absorbe Fuego', 'Nerviosismo']",2
+230,Kingdra,agua,1.8,152,75,95,95,95,95,85,0,"['Nado Rápido', 'Francotirador', 'Humedad']",2
+231,Phanpy,tierra,0.5,33.5,90,60,40,60,40,40,0,"['Recogida', 'Velo Arena']",2
+232,Donphan,tierra,1.1,120,90,120,60,120,60,50,0,"['Robustez', 'Velo Arena']",2
+233,Porygon2,normal,0.6,32.5,85,80,105,90,95,60,0,"['Rastro', 'Descarga', 'Cálculo Final']",2
+234,Stantler,normal,1.4,71.2,73,95,85,62,65,85,0,"['Intimidación', 'Cacheo', 'Herbívoro']",2
+235,Smeargle,normal,1.2,58,55,20,20,35,45,75,0,"['Ritmo Propio', 'Técnico', 'Veleta']",2
+236,Tyrogue,lucha,0.7,21,35,35,35,35,35,35,0,"['Agallas', 'Firmeza', 'Espíritu Vital']",2
+237,Hitmontop,lucha,1.4,48,50,95,35,95,110,70,0,"['Intimidación', 'Técnico', 'Firmeza']",2
+238,Smoochum,hielo,0.4,6,45,30,85,15,65,65,0,"['Despiste', 'Alerta', 'Hidratación']",2
+239,Elekid,eléctrico,0.6,23.5,45,63,65,37,55,95,0,"['Estática', 'Espíritu Vital']",2
+240,Magby,fuego,0.7,21.4,45,75,70,37,55,83,0,"['Cuerpo Llama', 'Espíritu Vital']",2
+241,Miltank,normal,1.2,75.5,95,80,40,105,70,100,0,"['Sebo', 'Intrépido', 'Herbívoro']",2
+242,Blissey,normal,1.5,46.8,255,10,75,10,135,55,0,"['Cura Natural', 'Dicha Serena', 'Sanador']",2
+243,Raikou,eléctrico,1.9,178,90,85,115,75,100,115,1,"['Presión', 'Foco Interno']",2
+244,Entei,fuego,2.1,198,115,115,90,85,75,100,1,"['Presión', 'Foco Interno']",2
+245,Suicune,agua,2,187,100,75,90,115,115,85,1,"['Presión', 'Foco Interno']",2
+246,Larvitar,roca,0.6,72,50,64,45,50,50,41,0,"['Agallas', 'Velo Arena']",2
+247,Pupitar,roca,1.2,152,70,84,65,70,70,51,0,['Muda'],2
+248,Tyranitar,roca,2,202,100,164,95,150,120,71,0,"['Chorro Arena', 'Nerviosismo']",2
+249,Lugia,psíquico,5.2,216,106,90,90,130,154,110,1,"['Presión', 'Multiescala']",2
+250,Ho-Oh,fuego,3.8,199,106,130,110,90,154,90,1,"['Presión', 'Regenerador']",2
+251,Celebi,psíquico,0.6,5,100,100,100,100,100,100,1,['Cura Natural'],2
+387,Turtwig,planta,0.4,10.2,55,68,45,64,55,31,0,"['Espesura', 'Caparazón']",4
+388,Grotle,planta,1.1,97,75,89,55,85,65,36,0,"['Espesura', 'Caparazón']",4
+389,Torterra,planta,2.2,310,95,109,75,105,85,56,0,"['Espesura', 'Caparazón']",4
+390,Chimchar,fuego,0.5,6.2,44,58,58,44,44,61,0,"['Mar Llamas', 'Puño Férreo']",4
+391,Monferno,fuego,0.9,22,64,78,78,52,52,81,0,"['Mar Llamas', 'Puño Férreo']",4
+392,Infernape,fuego,1.2,55,76,104,104,71,71,108,0,"['Mar Llamas', 'Puño Férreo']",4
+393,Piplup,agua,0.4,5.2,53,51,61,53,56,40,0,"['Torrente', 'Audaz']",4
+394,Prinplup,agua,0.8,23,64,66,81,68,76,50,0,"['Torrente', 'Audaz']",4
+395,Empoleon,agua,1.7,84.5,84,86,111,88,101,60,0,"['Torrente', 'Audaz']",4
+396,Starly,normal,0.3,2,40,55,30,30,30,60,0,"['Vista Lince', 'Temerario']",4
+397,Staravia,normal,0.6,15.5,55,75,40,50,40,80,0,"['Intimidación', 'Temerario']",4
+398,Staraptor,normal,1.2,24.9,85,120,50,70,60,100,0,"['Intimidación', 'Temerario']",4
+399,Bidoof,normal,0.5,20,59,45,35,40,40,31,0,"['Simple', 'Despistado', 'Veleta']",4
+400,Bibarel,normal,1,31.5,79,85,55,60,60,71,0,"['Simple', 'Despistado', 'Veleta']",4
+401,Kricketot,bicho,0.3,2.2,37,25,25,41,41,25,0,"['Mudar', 'Fuga']",4
+402,Kricketune,bicho,1,25.5,77,85,55,51,51,65,0,"['Enjambre', 'Técnico']",4
+403,Shinx,eléctrico,0.5,9.5,45,65,40,34,34,45,0,"['Rivalidad', 'Intimidación', 'Agallas']",4
+404,Luxio,eléctrico,0.9,30.5,60,85,60,49,49,60,0,"['Rivalidad', 'Intimidación', 'Agallas']",4
+405,Luxray,eléctrico,1.4,42,80,120,95,79,79,70,0,"['Rivalidad', 'Intimidación', 'Agallas']",4
+406,Budew,planta,0.2,1.2,40,30,50,35,70,55,0,"['Cura Natural', 'Punto Tóxico', 'Defensa Hoja']",4
+407,Roserade,planta,0.9,14.5,60,70,125,65,105,90,0,"['Cura Natural', 'Punto Tóxico', 'Técnico']",4
+408,Cranidos,roca,0.9,31.5,67,125,30,40,30,58,0,"['Rompemoldes', 'Potencia Bruta']",4
+409,Rampardos,roca,1.6,102.5,97,165,65,60,50,58,0,"['Rompemoldes', 'Potencia Bruta']",4
+410,Shieldon,roca,0.5,57,30,42,42,118,88,30,0,"['Robustez', 'Insonorizar']",4
+411,Bastiodon,roca,1.3,149.5,60,52,47,168,138,30,0,"['Robustez', 'Insonorizar']",4
+412,Burmy,bicho,0.2,3.4,40,29,29,45,45,36,0,"['Mudar', 'Ropa Fuerte']",4
+413,Wormadam,bicho,0.5,6.5,60,69,69,95,95,36,0,"['Anticipación', 'Ropa Fuerte']",4
+414,Mothim,bicho,0.9,23.3,70,94,94,50,50,66,0,"['Enjambre', 'Lente Tinta']",4
+415,Combee,bicho,0.3,5.5,30,30,30,42,42,70,0,"['Recogemiel', 'Entusiasmo']",4
+416,Vespiquen,bicho,1.2,38.5,70,80,80,102,102,40,0,"['Presión', 'Nerviosismo']",4
+417,Pachirisu,eléctrico,0.4,3.9,60,45,45,70,90,95,0,"['Fuga', 'Recogida', 'Absorbe Elec']",4
+418,Buizel,agua,0.7,29.5,55,65,60,35,30,85,0,"['Nado Rápido', 'Velo Agua']",4
+419,Floatzel,agua,1.1,33.5,85,105,85,55,50,115,0,"['Nado Rápido', 'Velo Agua']",4
+420,Cherubi,planta,0.4,3.3,45,35,62,45,53,35,0,['Clorofila'],4
+421,Cherrim,planta,0.5,9.3,70,60,87,70,78,85,0,['Don Floral'],4
+422,Shellos,agua,0.3,6.3,76,48,57,48,62,34,0,"['Viscosidad', 'Drenaje', 'Fuerza Arena']",4
+423,Gastrodon,agua,0.9,29.9,111,83,92,68,82,39,0,"['Viscosidad', 'Drenaje', 'Fuerza Arena']",4
+424,Ambipom,normal,1.2,20.3,75,100,60,66,66,115,0,"['Técnico', 'Recogida', 'Encadenado']",4
+425,Drifloon,ghost,0.4,1.2,90,50,60,34,44,70,0,"['Resquicio', 'Liviano', 'Ímpetu Ardiente']",4
+426,Drifblim,ghost,1.2,15,150,80,90,44,54,80,0,"['Resquicio', 'Liviano', 'Ímpetu Ardiente']",4
+427,Buneary,normal,0.4,5.5,55,66,44,44,56,85,0,"['Fuga', 'Zoquete', 'Flexibilidad']",4
+428,Lopunny,normal,1.2,33.3,65,136,54,94,96,135,0,"['Encanto', 'Zoquete', 'Flexibilidad']",4
+429,Mismagius,ghost,0.9,4.4,60,60,105,60,105,105,0,['Levitación'],4
+430,Honchkrow,oscuro,0.9,27.3,100,125,105,52,52,71,0,"['Insomnio', 'Afortunado', 'Autoestima']",4
+431,Glameow,normal,0.5,3.9,49,55,42,42,37,85,0,"['Flexibilidad', 'Ritmo Propio', 'Vista Lince']",4
+432,Purugly,normal,1,43.8,71,82,64,64,59,112,0,"['Sebo', 'Ritmo Propio', 'Audaz']",4
+433,Chingling,psychic,0.2,0.6,45,30,65,50,50,45,0,['Levitación'],4
+434,Stunky,veneno,0.4,19.2,63,63,41,47,41,74,0,"['Hedor', 'Resquicio', 'Vista Lince']",4
+435,Skuntank,veneno,1,38,103,93,71,67,61,84,0,"['Hedor', 'Resquicio', 'Vista Lince']",4
+436,Bronzor,acero,0.5,60.5,57,24,24,86,86,23,0,"['Levitación', 'Ignífugo', 'Metal Pesado']",4
+437,Bronzong,acero,1.3,187,67,89,79,116,116,33,0,"['Levitación', 'Ignífugo', 'Metal Pesado']",4
+438,Bonsly,roca,0.5,15,50,80,10,95,45,10,0,"['Robustez', 'Cabeza Roca', 'Nerviosismo']",4
+439,Mime Jr.,psychic,0.6,13,20,25,70,45,90,60,0,"['Insonorizar', 'Filtro', 'Técnico']",4
+440,Happiny,normal,0.6,24.4,100,5,15,5,65,30,0,"['Cura Natural', 'Dicha Serena', 'Amigo Guarda']",4
+441,Chatot,normal,0.5,1.9,76,65,92,45,42,91,0,"['Vista Lince', 'Pies de Plomo', 'Plumífero']",4
+442,Spiritomb,ghost,1,108,50,92,92,108,108,35,0,"['Presión', 'Allanamiento']",4
+443,Gible,dragon,0.7,20.5,58,70,40,45,45,42,0,"['Velo Arena', 'Piel Tosca']",4
+444,Gabite,dragon,1.4,56,68,90,50,65,55,82,0,"['Velo Arena', 'Piel Tosca']",4
+445,Garchomp,dragon,1.9,95,108,170,120,115,95,92,0,"['Velo Arena', 'Piel Tosca']",4
+446,Munchlax,normal,0.6,105,135,85,40,40,85,5,0,"['Recogida', 'Sebo', 'Gula']",4
+447,Riolu,lucha,0.7,20.2,40,70,35,40,40,60,0,"['Firmeza', 'Foco Interno', 'Bromista']",4
+448,Lucario,lucha,1.2,54,70,145,140,88,70,112,0,"['Firmeza', 'Foco Interno', 'Justiciero']",4
+449,Hippopotas,tierra,0.8,49.5,68,72,38,78,42,32,0,"['Chorro Arena', 'Poder Arena']",4
+450,Hippowdon,tierra,2,300,108,112,68,118,72,47,0,"['Chorro Arena', 'Poder Arena']",4
+451,Skorupi,veneno,0.8,12,40,50,30,90,55,65,0,"['Armadura Batalla', 'Francotirador', 'Vista Lince']",4
+452,Drapion,veneno,1.3,61.5,70,90,60,110,75,95,0,"['Armadura Batalla', 'Francotirador', 'Vista Lince']",4
+453,Croagunk,veneno,0.7,23,48,61,61,40,40,50,0,"['Anticipación', 'Piel Seca', 'Toque Tóxico']",4
+454,Toxicroak,veneno,1.3,44.4,83,106,86,65,65,85,0,"['Anticipación', 'Piel Seca', 'Toque Tóxico']",4
+455,Carnivine,planta,1.4,27,74,100,90,72,72,46,0,['Levitación'],4
+456,Finneon,agua,0.4,7,49,49,49,56,61,66,0,"['Nado Rápido', 'Drenaje', 'Velo Agua']",4
+457,Lumineon,agua,1.2,24,69,69,69,76,86,91,0,"['Nado Rápido', 'Drenaje', 'Velo Agua']",4
+458,Mantyke,agua,1,65,45,20,60,50,120,50,0,"['Nado Rápido', 'Absorbe Agua', 'Velo Agua']",4
+459,Snover,planta,1,50.5,60,62,62,50,60,40,0,"['Alerta Nieve', 'Insonorizar']",4
+460,Abomasnow,planta,2.2,135.5,90,132,132,105,105,30,0,"['Alerta Nieve', 'Insonorizar']",4
+461,Weavile,oscuro,1.1,34,70,120,45,65,85,125,0,"['Presión', 'Hurto']",4
+462,Magnezone,eléctrico,1.2,180,70,70,130,115,90,60,0,"['Imán', 'Robustez', 'Cálculo Final']",4
+463,Lickilicky,normal,1.7,140,110,85,80,95,95,50,0,"['Ritmo Propio', 'Despiste', 'Aclimatación']",4
+464,Rhyperior,tierra,2.4,282.8,115,140,55,130,55,40,0,"['Pararrayos', 'Roca Sólida', 'Audaz']",4
+465,Tangrowth,planta,2,128.6,100,100,110,125,50,50,0,"['Clorofila', 'Defensa Hoja', 'Regenerador']",4
+466,Electivire,eléctrico,1.8,138.6,75,123,95,67,85,95,0,"['Impulso', 'Espíritu Vital']",4
+467,Magmortar,fuego,1.6,68,75,95,125,67,95,83,0,"['Cuerpo Llama', 'Espíritu Vital']",4
+468,Togekiss,hada,1.5,38,85,50,120,95,115,80,0,"['Ímpetu', 'Gracia Serena', 'Super Suerte']",4
+469,Yanmega,bicho,1.9,51.5,86,76,116,86,56,95,0,"['Impulso', 'Lente Tinta', 'Cacheo']",4
+470,Leafeon,planta,1,25.5,65,110,60,130,65,95,0,"['Defensa Hoja', 'Clorofila']",4
+471,Glaceon,hielo,0.8,25.9,65,60,130,110,95,65,0,"['Manto Níveo', 'Cuerpo Helado']",4
+472,Gliscor,tierra,2,42.5,75,95,45,125,75,95,0,"['Corte Fuerte', 'Velo Arena', 'Curación Veneno']",4
+473,Mamoswine,hielo,2.5,291,110,130,70,80,60,80,0,"['Despiste', 'Manto Níveo', 'Sebo']",4
+474,Porygon-Z,normal,0.9,34,85,80,135,70,75,90,0,"['Adaptabilidad', 'Descarga', 'Cálculo Final']",4
+475,Gallade,psíquico,1.6,52,68,165,65,95,115,110,0,"['Impasible', 'Justiciero']",4
+476,Probopass,roca,1.4,340,60,55,75,145,150,40,0,"['Robustez', 'Imán', 'Poder Arena']",4
+477,Dusknoir,fantasma,2.2,106.6,45,100,65,135,135,45,0,"['Presión', 'Cacheo']",4
+478,Froslass,hielo,1.3,26.6,70,80,80,70,70,110,0,"['Manto Níveo', 'Cuerpo Maldito']",4
+479,Rotom,eléctrico,0.3,0.3,50,65,105,107,107,86,0,['Levitación'],4
+480,Uxie,psíquico,0.3,0.3,75,75,75,130,130,95,1,['Levitación'],4
+481,Mesprit,psíquico,0.3,0.3,80,105,105,105,105,80,1,['Levitación'],4
+482,Azelf,psíquico,0.3,0.3,75,125,125,70,70,115,1,['Levitación'],4
+483,Dialga,acero,5.4,683,100,120,150,120,100,90,1,"['Presión', 'Telepatía']",4
+484,Palkia,agua,4.2,336,90,120,150,100,120,100,1,"['Presión', 'Telepatía']",4
+485,Heatran,fuego,1.7,430,91,90,130,106,106,77,1,"['Absorbe Fuego', 'Cuerpo Llama']",4
+486,Regigigas,normal,3.7,420,110,160,80,110,110,100,1,['Inicio Lento'],4
+487,Giratina,fantasma,4.5,750,150,120,120,100,100,90,1,"['Presión', 'Telepatía', 'Levitación']",4
+488,Cresselia,psíquico,1.5,85.6,120,70,75,120,130,85,1,['Levitación'],4
+489,Phione,agua,0.4,3.1,80,80,80,80,80,80,0,['Hidratación'],4
+490,Manaphy,agua,0.3,1.4,100,100,100,100,100,100,1,['Hidratación'],4
+491,Darkrai,oscuro,1.5,50.5,70,90,135,90,90,125,1,['Mal Sueño'],4
+492,Shaymin,planta,0.2,2.1,100,103,120,75,75,127,1,"['Cura Natural', 'Gracia Serena']",4
+493,Arceus,normal,3.2,320,120,120,120,120,120,120,1,['Multitipo'],4
+722,Rowlet,planta,0.3,1.5,68,55,50,55,50,42,0,"['Supercrescimiento', 'Largo Alcance']",7
+723,Dartrix,planta,0.7,16,78,75,70,75,70,52,0,"['Supercrescimiento', 'Largo Alcance']",7
+724,Decidueye,planta,1.6,36.6,78,107,100,75,100,70,0,"['Supercrescimiento', 'Largo Alcance']",7
+725,Litten,fuego,0.4,4.3,45,65,60,40,40,70,0,"['Mar Llamas', 'Intimidación']",7
+726,Torracat,fuego,0.7,25,65,85,80,50,50,90,0,"['Mar Llamas', 'Intimidación']",7
+727,Incineroar,fuego,1.8,83,95,115,80,90,90,60,0,"['Mar Llamas', 'Intimidación']",7
+728,Popplio,agua,0.4,7.5,50,54,66,54,56,40,0,"['Torrente', 'Voz Fluida']",7
+729,Brionne,agua,0.6,17.5,60,69,91,69,81,50,0,"['Torrente', 'Voz Fluida']",7
+730,Primarina,agua,1.8,44,80,74,126,74,116,60,0,"['Torrente', 'Voz Fluida']",7
+731,Pikipek,normal,0.3,1.2,35,75,30,30,30,65,0,"['Ojo Compuesto', 'Encadenado', 'Recogida']",7
+732,Trumbeak,normal,0.6,14.8,55,85,40,50,50,75,0,"['Ojo Compuesto', 'Encadenado', 'Recogida']",7
+733,Toucannon,normal,1.1,26,80,120,75,75,75,60,0,"['Ojo Compuesto', 'Encadenado', 'Fuerza Bruta']",7
+734,Yungoos,normal,0.4,6,48,70,30,30,30,45,0,"['Vigilante', 'Mandíbula Fuerte', 'Adaptabilidad']",7
+735,Gumshoos,normal,0.7,14.2,88,110,55,60,60,45,0,"['Vigilante', 'Mandíbula Fuerte', 'Adaptabilidad']",7
+736,Grubbin,bicho,0.4,4.4,47,62,55,45,45,46,0,['Enjambre'],7
+737,Charjabug,bicho,0.5,10.5,57,82,55,95,75,36,0,['Batería'],7
+738,Vikavolt,bicho,1.5,45,77,70,145,90,75,43,0,['Levitación'],7
+739,Crabrawler,lucha,0.6,7,47,82,42,57,47,63,0,"['Hiper Cutter', 'Puño Férreo', 'Punto Ira']",7
+740,Crabominable,lucha,1.7,180,97,132,62,77,67,43,0,"['Hiper Cutter', 'Puño Férreo', 'Punto Ira']",7
+741,Oricorio,fuego,0.6,3.4,75,70,98,70,70,93,0,['Bailarín'],7
+742,Cutiefly,bicho,0.1,0.2,40,45,55,40,40,84,0,"['Recogemiel', 'Polvo Escudo', 'Velo Dulce']",7
+743,Ribombee,bicho,0.2,0.5,60,55,95,60,70,124,0,"['Recogemiel', 'Polvo Escudo', 'Velo Dulce']",7
+744,Rockruff,roca,0.5,9.2,45,65,30,40,40,60,0,"['Ojo Compuesto', 'Espíritu Vital', 'Impasible']",7
+745,Lycanroc,roca,0.5,38,85,115,55,75,75,82,0,"['Ojo Compuesto', 'Carrera Arena', 'Impasible', 'Ojo Compuesto', 'Espíritu Vital', 'Guardia Nocturna']",7
+746,Wishiwashi,agua,0.2,0.3,45,140,140,130,135,30,0,['Banco'],7
+747,Mareanie,veneno,0.4,8,50,53,43,62,52,45,0,"['Despiadado', 'Flexibilidad', 'Regenerador']",7
+748,Toxapex,veneno,0.7,14.5,50,63,53,152,142,35,0,"['Despiadado', 'Flexibilidad', 'Regenerador']",7
+749,Mudbray,tierra,1,110,70,100,45,70,55,45,0,"['Ritmo Propio', 'Resistencia', 'Foco Interno']",7
+750,Mudsdale,tierra,2.5,920,100,125,55,100,85,35,0,"['Ritmo Propio', 'Resistencia', 'Foco Interno']",7
+751,Dewpider,agua,0.3,4,38,40,40,52,72,27,0,"['Burbuja de Agua', 'Absorber Agua']",7
+752,Araquanid,agua,1.8,82,68,70,50,92,132,42,0,"['Burbuja de Agua', 'Absorber Agua']",7
+753,Fomantis,planta,0.3,1.5,40,55,50,35,35,35,0,"['Guardia Hoja', 'Contrario']",7
+754,Lurantis,planta,0.9,18.5,70,105,80,90,90,45,0,"['Guardia Hoja', 'Contrario']",7
+755,Morelull,planta,0.2,1.5,40,35,65,55,75,15,0,"['Iluminar', 'Esporas Efecto', 'Plato Lluvioso']",7
+756,Shiinotic,planta,1,11.5,60,45,90,80,100,30,0,"['Iluminar', 'Esporas Efecto', 'Plato Lluvioso']",7
+757,Salandit,veneno,0.6,4.8,48,44,71,40,40,77,0,"['Corrosión', 'Despiste']",7
+758,Salazzle,veneno,1.2,22.2,68,64,111,60,60,117,0,"['Corrosión', 'Despiste']",7
+759,Stufful,normal,0.5,6.8,70,75,45,50,50,50,0,"['Peluche', 'Torpe', 'Encanto']",7
+760,Bewear,normal,2.1,135,120,125,55,80,60,60,0,"['Peluche', 'Torpe', 'Intimidación']",7
+761,Bounsweet,planta,0.3,3.2,42,30,30,38,38,32,0,"['Guardia Hoja', 'Despiste', 'Velo Dulce']",7
+762,Steenee,planta,0.7,8.2,52,40,40,48,48,62,0,"['Guardia Hoja', 'Despiste', 'Velo Dulce']",7
+763,Tsareena,planta,1.2,21.4,72,120,50,98,98,72,0,"['Guardia Hoja', 'Majestad Real', 'Velo Dulce']",7
+764,Comfey,hada,0.1,0.3,51,52,82,90,110,100,0,"['Velo Flor', 'Triaje', 'Cura Natural']",7
+765,Oranguru,normal,1.5,76,90,60,90,80,110,60,0,"['Foco Interno', 'Telepatía', 'Simbiosis']",7
+766,Passimian,lucha,2,82.8,100,120,40,90,60,80,0,"['Receptor', 'Desafiante']",7
+767,Wimpod,bicho,0.5,12,25,35,20,40,30,80,0,['Salir Corriendo'],7
+768,Golisopod,bicho,2,108,75,125,60,140,90,40,0,['Salida de Emergencia'],7
+769,Sandygast,fantasma,0.5,70,55,55,70,80,45,15,0,"['Compactación de Agua', 'Velo Arena']",7
+770,Palossand,fantasma,1.3,250,85,75,100,110,75,35,0,"['Compactación de Agua', 'Velo Arena']",7
+771,Pyukumuku,agua,0.3,1.2,55,60,30,130,130,5,0,"['Revés', 'Ignorante']",7
+772,Codigo Cero,normal,1.9,120.5,95,95,95,95,95,59,0,['Armadura Batalla'],7
+773,Silvally,normal,2.3,100.5,95,95,95,95,95,95,0,['Sistema RKS'],7
+774,Minior,roca,0.3,40,60,100,100,60,60,120,0,['Escudo Limitado'],7
+775,Komala,normal,0.4,19.9,65,115,75,65,95,65,0,['Comatoso'],7
+776,Turtonator,fuego,2,212,60,78,91,135,85,36,0,['Caparazón'],7
+777,Togedemaru,eléctrico,0.3,3.3,65,98,40,63,73,96,0,"['Púas', 'Pararrayos', 'Robustez']",7
+778,Mimikyu,fantasma,0.2,0.7,55,90,50,80,105,96,0,['Disfraz'],7
+779,Bruxish,agua,0.9,19,68,105,70,70,70,92,0,"['Deslumbrar', 'Mandíbula Fuerte', 'Piel Milagro']",7
+780,Drampa,normal,3,185,78,60,135,85,91,36,0,"['Furor', 'Herbívoro', 'Nube Nueve']",7
+781,Dhelmise,fantasma,3.9,210,70,131,86,100,90,40,0,['Metal Pesado'],7
+782,Jangmo-o,dragón,0.6,29.7,45,55,45,65,45,45,0,"['A Prueba de Balas', 'Insonorizar', 'Funda']",7
+783,Hakamo-o,dragón,1.2,47,55,75,65,90,70,65,0,"['A Prueba de Balas', 'Insonorizar', 'Funda']",7
+784,Kommo-o,dragón,1.6,78.2,75,110,100,125,105,85,0,"['A Prueba de Balas', 'Insonorizar', 'Funda']",7
+785,Tapu Koko,eléctrico,1.8,20.5,70,115,95,85,75,130,1,"['Electrogénesis', 'Telepatía']",7
+786,Tapu Lele,psíquico,1.2,18.6,70,85,130,75,115,95,1,"['Psicogénesis', 'Telepatía']",7
+787,Tapu Bulu,planta,1.9,45.5,70,130,85,115,95,75,1,"['Herbogénesis', 'Telepatía']",7
+788,Tapu Fini,agua,1.3,21.2,70,75,95,115,130,85,1,"['Hidrogénesis', 'Telepatía']",7
+789,Cosmog,psíquico,0.2,0.1,43,29,29,31,31,37,1,['Ignorante'],7
+790,Cosmoem,psíquico,0.1,999.9,43,29,29,131,131,37,1,['Robustez'],7
+791,Solgaleo,psíquico,3.4,230,137,137,113,107,89,97,1,['Cuerpo Completo de Metal'],7
+792,Lunala,psíquico,4,120,137,113,137,89,107,97,1,['Escudo Sombra'],7
+793,Nihilego,roca,1.2,55.5,109,53,127,47,131,103,1,['Impulso Bestia'],7
+794,Buzzwole,bicho,2.4,333.6,107,139,53,139,53,79,1,['Impulso Bestia'],7
+795,Pheromosa,bicho,1.8,25,71,137,137,37,37,151,1,['Impulso Bestia'],7
+796,Xurkitree,eléctrico,3.8,100,83,89,173,71,71,83,1,['Impulso Bestia'],7
+797,Celesteela,acero,9.2,999.9,97,101,107,103,101,61,1,['Impulso Bestia'],7
+798,Kartana,planta,0.3,0.1,59,181,59,131,31,109,1,['Impulso Bestia'],7
+799,Guzzlord,oscuro,5.5,888,223,101,97,53,53,43,1,['Impulso Bestia'],7
+800,Necrozma,psíquico,2.4,230,97,107,127,101,89,79,1,['Armadura Prisma'],7
+801,Magearna,acero,1,80.5,80,95,130,115,115,65,1,['Corazón Alma'],7
+802,Marshadow,fantasma,0.7,22.2,90,125,90,80,90,125,1,['Técnico'],7
+803,Poipole,veneno,0.6,1.8,67,73,73,67,67,73,0, ['Impulso Bestia'],7
+804,Naganadel,dragón,3.6,150,73,73,127,73,73,121,1,['Impulso Bestia'],7
+805,Stakataka,roca,5.5,820,61,131,53,211,101,13,1,['Impulso Bestia'],7
+806,Blacephalon,fantasma,1.8,13,53,127,151,53,79,107,1,['Impulso Bestia'],7
+807,Zeraora,eléctrico,1.5,44.5,88,112,102,75,80,143,1,['Absorbe Voltios'],7
+808,Meltan,eléctrico,0.2,8,46,65,55,65,35,34,1,['Tirador Magnético'],7
+809,Melmetal,acero,2.5,800,135,143,80,143,65,34,0,['Puño Férreo'],7
